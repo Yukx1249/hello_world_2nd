@@ -1,2 +1,2 @@
 # hello_world_2nd
-tutorial
+i will code my own besige mod
